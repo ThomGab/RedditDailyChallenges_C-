@@ -1,13 +1,5 @@
 using System;
 using System.IO;
-using System.Runtime.ExceptionServices;
-using System.Runtime.InteropServices;
-using System.Runtime.Remoting.Services;
-using System.Security.Cryptography;
-using System.Security.Cryptography.X509Certificates;
-using System.Xml;
-using Microsoft.Win32;
-using Console = System.Console;
 
 namespace Reddit_Daily_Programmer_Challenges_Easy_1_10
 {
